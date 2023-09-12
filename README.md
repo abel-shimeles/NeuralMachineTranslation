@@ -32,4 +32,4 @@ git clone https://github.com/abel-shimeles/NeuralMachineTranslation.git
 cd NeuralMachineTranslation
 ```
 
-2. Run the [Jupyter Notebook](Neural_Machine_Translation_with_Attention)
+2. Run the [JNeural_Machine_Translation_with_Attention](Neural_Machine_Translation_with_Attention.ipynb) file.
