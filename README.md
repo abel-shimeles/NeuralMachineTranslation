@@ -12,8 +12,8 @@ The attention mechanism tells a Neural Machine Translation model where it should
 
 Here is a figure that shows how the model works. 
    * The diagram on the left shows the attention model. 
-   * The diagram on the right shows what one "attention" step does to calculate the attention variables $\alpha^{\langle t, t' \rangle}$.
-   * The attention variables $\alpha^{\langle t, t' \rangle}$ are used to compute the context variable $context^{\langle t \rangle}$ for each timestep in the output ($t=1, \ldots, T_y$). 
+   * The diagram on the right shows what one "attention" step does to calculate the attention variables.
+   * The attention variables $\alpha^{\langle t, t' \rangle}$ are used to compute the context variable.
    
 <table>
 <td> 
@@ -32,4 +32,4 @@ git clone https://github.com/abel-shimeles/NeuralMachineTranslation.git
 cd NeuralMachineTranslation
 ```
 
-2. Run the [JNeural_Machine_Translation_with_Attention](Neural_Machine_Translation_with_Attention.ipynb) file.
+2. Open the [Neural_Machine_Translation_with_Attention](Neural_Machine_Translation_with_Attention.ipynb) file.
